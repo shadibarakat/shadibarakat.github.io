@@ -21,7 +21,7 @@ theme: minima # Replace with your preferred Jekyll theme
 # Social Links
 social_links:
   github: "https://github.com/shadibarakat"
-  linkedin: "https://linkedin.com/in/shadi-barakat-781408265/"
+  linkedin: https://linkedin.com/in/shadi-barakat-781408265/
 
 # Portfolio settings
 portfolio:
