@@ -1,15 +1,30 @@
+# Site settings
 title: "Shadi Barakat"
-logo: "/images/photo.jpeg"
+logo: "/images/photo.jpeg" # Path to your logo image
 description: "A journey through technology, coding, and creative projects."
-show_downloads: true
 theme: jekyll-theme-minimal
+show_downloads: true
 
-# Additional options for better SEO and customization
+# Author settings
 author: "Shadi Barakat"
 email: "shadibarakat2004@gmail.com"
-github_username: "shadibarakat" 
+github_username: "shadibarakat"
+
+# Social links
 social_links:
   - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/shadi-barakat-781408265/" 
+    url: "https://www.linkedin.com/in/shadi-barakat-781408265/"
   - title: "GitHub"
-    url: "https://github.com/shadibarakat" 
+    url: "https://github.com/shadibarakat"
+
+# Additional options for better SEO and customization
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+
+
