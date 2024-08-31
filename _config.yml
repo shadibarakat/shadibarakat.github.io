@@ -14,11 +14,20 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap # Generates a sitemap.xml file for SEO
   - jekyll-feed # Adds RSS feed support
+  - jekyll-social-icons # Easily add social icons
+  - jekyll-optional-front-matter # Allows optional front matter for pages
+  - jekyll-include-cache # Caches included files to speed up the build process
 
 # Theme settings
 theme: minima # Replace with your preferred Jekyll theme
-# Custom CSS can be added for further customization instead of using unsupported Minima settings
-# Create a custom CSS file in your assets folder and link it in your layout files if needed
+minima:
+  skin: dark # Set to 'dark' for a dark mode; use 'light' for light mode
+  header:
+    background: "#2C3E50" # Custom background color for the header
+    text: "#ECF0F1" # Custom text color for the header
+  social_links:
+    github: "https://github.com/shadibarakat"
+    linkedin: "https://linkedin.com/in/shadi-barakat-781408265/"
 
 # Social Links
 social:
@@ -26,16 +35,7 @@ social:
   linkedin: shadibarakat
 
 # Portfolio settings
-portfolio:
-  - title: "GameGo Checkout System"
-    description: "An intricate checkout system for a fictional store with multiple features."
-    url: "/projects/gamego"
-    image: "/assets/images/gamego-thumbnail.png" # Add a thumbnail image for the project
-  - title: "Blackjack Game"
-    description: "A simple blackjack game with a UI in progress."
-    url: "/projects/blackjack"
-    image: "/assets/images/blackjack-thumbnail.png" # Add a thumbnail image for the project
-
+" # Add a thumbnail image for the project
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -65,6 +65,5 @@ paginate: 5 # Number of posts per page
 paginate_path: "/page:num/"
 permalink: "/:title/" # Set clean URLs
 
-# Remove the lazy loading option, as it’s not natively supported by Jekyll
-# Instead, implement lazy loading directly in your HTML/JS if needed
-
+# Lazy loading for images
+lazyload: true
