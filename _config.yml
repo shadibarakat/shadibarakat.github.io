@@ -5,9 +5,6 @@ description: Exploring technology, coding, and creative projects
 show_downloads: true
 theme: jekyll-theme-minimal
 
-# Enable analytics tracking
-google_analytics: UA-XXXXXX-X
-
 # Add SEO optimization
 plugins:
   - jekyll-seo-tag
@@ -26,33 +23,6 @@ social_links:
     url: mailto:your.email@example.com
     icon: fa-envelope
 
-# Enable Disqus comments
-disqus:
-  shortname: your-disqus-shortname
-
-# Footer customization
-footer: 
-  text: © 2024 Shadi Barakat. All rights reserved.
-  links:
-    - title: About Me
-      url: /about
-    - title: Contact
-      url: /contact
-    - title: Privacy Policy
-      url: /privacy-policy
-
-# Navigation links
-navigation:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects
-  - title: Blog
-    url: /blog
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
 
 # Customization of the theme colors (optional)
 theme_colors:
