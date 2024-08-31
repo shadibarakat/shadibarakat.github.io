@@ -35,7 +35,7 @@ Created a weather app using HTML, CSS, and JavaScript, providing real-time weath
 [View on GitHub](https://github.com/shadibarakat/Weather-app)
 
 ### Calculator
-Built a fully functional calculator using HTML, CSS, and JavaScript, designed to perform basic arithmetic operations. The interface is clean and intuitive, featuring responsive design for seamless use on various devices. The calculator handles edge cases like division by zero, ensuring accurate and reliable results.  
+Built a fully functional calculator using HTML, CSS, and JavaScript, designed to perform basic arithmetic operations. The interface is clean and intuitive, featuring a responsive design for seamless use on various devices. The calculator handles edge cases like division by zero, ensuring accurate and reliable results.  
 [View on GitHub](https://github.com/shadibarakat/Calculator)
 
 ### Trivia App
