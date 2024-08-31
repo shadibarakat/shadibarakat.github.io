@@ -1,9 +1,11 @@
-
 title: Shadi Barakat
 logo: /images/photo.jpeg
 description: Exploring technology, coding, and creative projects
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# Enable analytics tracking
+google_analytics: UA-XXXXXX-X
 
 # Add SEO optimization
 plugins:
@@ -11,6 +13,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+
+# Add social media links with icons
 social_links:
   - name: GitHub
     url: https://github.com/shadibarakat
@@ -18,11 +22,15 @@ social_links:
   - name: LinkedIn
     url: https://www.linkedin.com/in/shadi-barakat-781408265/
     icon: fa-linkedin
-
   - name: Email
-    url: mailto:your.email@example.com
+    url: mailto:shadibarakat2004@gmail.com
     icon: fa-envelope
 
+
+# Footer customization
+footer: 
+  text: "© 2024 Shadi Barakat. All rights reserved."
+  
 
 # Customization of the theme colors (optional)
 theme_colors:
