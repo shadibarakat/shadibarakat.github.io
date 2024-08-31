@@ -1,14 +1,18 @@
 # shadibarakat.github.io
 
-###Education
-College of Staten Island
-Pursuing a bachelors in Computer Science
+Education
+B.S., Computer Science | College of Staten Island (2021 - Present)
+NIA Community Services
+Instructor
+•	Teach students in an after-school program the basics of computer science.
+•	Instruct classes of 10-20 students the beginning steps of coding in C++ (2021 - Present)
 
-####Work Experience
-NIA community services Instructor
-Teach students in an after-school program the basics of computer science.
-Instruct classes of 10-20 students the beginning steps of coding in C++
+Alpha Prime Tech
+•	Acquired and utilized programming languages and frameworks, including HTML, HTML5, Jaca, JavaScript, and CSS, with additional React, Node.js, TypeScript, and SQL expertise. (April 2024 - June 2024)
+•	Developed robust websites from the ground up, including a personal portfolio, a calculator, and a restaurant website.
 
-#####PROJECTS
-Tic-Tac-Toe Game: Developed a command-line based Tic Tac Toe game in Python that supports two-player gameplay and includes a simple AI opponent for single-player mode. The project involved implementing game logic to handle win conditions, draw scenarios, and input validation, ensuring a smooth and error-free user experience. I applied modular design principles by organizing the code into functions for game initialization, player input, board display, and status checks. The game provides clear instructions and a visually distinct game board in the terminal, enhancing the overall user experience. Additionally, I used Git for version control to manage and track code changes efficiently.
+Certificates
+Crash Course in Python: 50-hour course that provides a fast-paced introduction to Python programming. Learn Python from scratch and gain hands-on experience through interactive exercises and assignments. The course covers fundamental programming concepts, data structures, Python libraries, and practical applications, equipping learners with the skills to tackle real-world programming challenges. https://coursera.org/share/4d738f32ab9b1c05ab73f39b57f79db6
 
+Full Stack Web Development with Cloud
+Received a certificate of completion. Completed a comprehensive introduction to HTML, HTML5, Java, CSS, JavaScript, Typescript, SQL, React, Node, and APIs, gaining hands-on experience in fundamental programming concepts, data structures, and Web Development. Developed practical skills through interactive exercises and assignments, enhancing my ability to tackle real-world programming challenges.
