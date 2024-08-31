@@ -1,6 +1,5 @@
 # Site settings
 title: Shadi Barakat Portfolio
-description: "Welcome to my personal portfolio showcasing my projects, skills, and experiences."
 baseurl: "" # The subpath of your site, e.g., /blog
 url: "https://shadibarakat.github.io" # The base hostname & protocol for your site
 
@@ -10,7 +9,7 @@ github_username: shadibarakat
 linkedin_username: shadibarakat
 
 # SEO settings
-google_analytics: UA-XXXXXXX-X # Replace with your Google Analytics tracking ID
+#google_analytics: UA-XXXXXXX-X # Replace with your Google Analytics tracking ID
 # plugins:
 #   - jekyll-seo-tag
 
