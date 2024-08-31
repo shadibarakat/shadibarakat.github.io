@@ -15,6 +15,14 @@
 - Acquired and utilized programming languages and frameworks including HTML, HTML5, Java, JavaScript, CSS, React, Node.js, TypeScript, and SQL.
 - Developed robust websites from the ground up, including a personal portfolio, a calculator, and a restaurant website.
 
+### Alignerr
+**AI Tutor** | June 2024 – Present*  
+- Evaluate AI-generated content for accuracy, completeness, brevity, and grammatical correctness using established rubrics.
+- Review and provide feedback on the work of other writers to maintain high-quality standards.
+- Produce original content in response to prompts, directly contributing to AI model training and development.
+- Demonstrate strong time management, advanced writing skills, critical thinking, and attention to detail.
+- Leverage foundational knowledge in AI and machine learning concepts to excel in this role.
+
 ## Certifications
 
 ### Crash Course in Python
@@ -23,6 +31,7 @@ Completed a 50-hour course offering a fast-paced introduction to Python programm
 
 ### Full Stack Web Development with Cloud
 Completed a comprehensive introduction to HTML, HTML5, Java, CSS, JavaScript, TypeScript, SQL, React, Node, and APIs. The course provided hands-on experience in fundamental programming concepts, data structures, and web development, enhancing my ability to address real-world programming challenges.
+
 
 ## Projects
 
