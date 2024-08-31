@@ -1,13 +1,13 @@
 # Site settings
-title: Adonis Younes Portfolio
+title: Shadi Barakat Portfolio
 description: "Welcome to my personal portfolio showcasing my projects, skills, and experiences."
 baseurl: "" # The subpath of your site, e.g., /blog
 url: "https://yourusername.github.io" # The base hostname & protocol for your site
 
 # Contact Information
-email: adonisyounes2004@gmail.com
-github_username: yourusername
-linkedin_username: yourlinkedinusername
+email: shadibarakat2004@gmail.com
+github_username: shadibarakat
+linkedin_username: shadibarakat
 
 # SEO settings
 google_analytics: UA-XXXXXXX-X # Replace with your Google Analytics tracking ID
@@ -19,9 +19,9 @@ theme: minima # Replace with your preferred Jekyll theme
 
 # Social Links
 social:
-  twitter: yourtwitterhandle
-  github: yourusername
-  linkedin: yourlinkedinusername
+  
+  github: shadibarakat
+  linkedin: shadibarakat
 
 # Portfolio settings
 portfolio:
