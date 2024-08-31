@@ -1,30 +1,47 @@
 # Site settings
-title: "Shadi Barakat"
-logo: "/images/photo.jpeg" # Path to your logo image
-description: "A journey through technology, coding, and creative projects."
-theme: jekyll-theme-minimal
-show_downloads: true
+title: Adonis Younes Portfolio
+description: "Welcome to my personal portfolio showcasing my projects, skills, and experiences."
+baseurl: "" # The subpath of your site, e.g., /blog
+url: "https://yourusername.github.io" # The base hostname & protocol for your site
 
-# Author settings
-author: "Shadi Barakat"
-email: "shadibarakat2004@gmail.com"
-github_username: "shadibarakat"
+# Contact Information
+email: adonisyounes2004@gmail.com
+github_username: yourusername
+linkedin_username: yourlinkedinusername
 
-# Social links
-social_links:
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/shadi-barakat-781408265/"
-  - title: "GitHub"
-    url: "https://github.com/shadibarakat"
+# SEO settings
+google_analytics: UA-XXXXXXX-X # Replace with your Google Analytics tracking ID
+# plugins:
+#   - jekyll-seo-tag
 
-# Additional options for better SEO and customization
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+# Theme settings
+theme: minima # Replace with your preferred Jekyll theme
+
+# Social Links
+social:
+  twitter: yourtwitterhandle
+  github: yourusername
+  linkedin: yourlinkedinusername
+
+# Portfolio settings
+portfolio:
+  - title: "GameGo Checkout System"
+    description: "An intricate checkout system for a fictional store with multiple features."
+    url: "/projects/gamego"
+  - title: "Blackjack Game"
+    description: "A simple blackjack game with a UI in progress."
+    url: "/projects/blackjack"
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 
-
-
+# Exclude these files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
