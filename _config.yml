@@ -2,7 +2,7 @@
 title: Shadi Barakat Portfolio
 description: "Welcome to my personal portfolio showcasing my projects, skills, and experiences."
 baseurl: "" # The subpath of your site, e.g., /blog
-url: "https://yourusername.github.io" # The base hostname & protocol for your site
+url: "https://shadibarakat.github.io" # The base hostname & protocol for your site
 
 # Contact Information
 email: shadibarakat2004@gmail.com
