@@ -41,3 +41,18 @@ Built a fully functional calculator using HTML, CSS, and JavaScript, designed to
 ### Trivia App
 Developed a trivia app using HTML, CSS, and JavaScript, challenging users with multiple-choice questions on various topics. The app features an interactive interface, a scoring system, and a timer to enhance the challenge. The design is responsive, ensuring a consistent user experience across devices.  
 [View on GitHub](https://github.com/shadibarakat/trivia-api-project)
+
+
+social_links:
+  - name: "GitHub"
+    url: "https://github.com/yourusername"
+    icon: "fa-github"
+  - name: "LinkedIn"
+    url: "https://linkedin.com/in/yourprofile"
+    icon: "fa-linkedin"
+  - name: "Twitter"
+    url: "https://twitter.com/yourhandle"
+    icon: "fa-twitter"
+  - name: "Email"
+    url: "mailto:your.email@example.com"
+    icon: "fa-envelope"
