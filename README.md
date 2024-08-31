@@ -43,16 +43,3 @@ Developed a trivia app using HTML, CSS, and JavaScript, challenging users with m
 [View on GitHub](https://github.com/shadibarakat/trivia-api-project)
 
 
-social_links:
-  - name: "GitHub"
-    url: "https://github.com/yourusername"
-    icon: "fa-github"
-  - name: "LinkedIn"
-    url: "https://linkedin.com/in/yourprofile"
-    icon: "fa-linkedin"
-  - name: "Twitter"
-    url: "https://twitter.com/yourhandle"
-    icon: "fa-twitter"
-  - name: "Email"
-    url: "mailto:your.email@example.com"
-    icon: "fa-envelope"
