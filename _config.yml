@@ -2,3 +2,11 @@ title: Shadi Barakat
 logo: /images/photo.jpeg
 show_downloads: true
 theme: jekyll-theme-minimal
+social_links:
+  - name: GitHub
+    url: https://github.com/shadibarakat
+    icon: fa-github
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/shadi-barakat-781408265/
+    icon: fa-linkedin
+footer: Made with ❤️ by Shadi Barakat
