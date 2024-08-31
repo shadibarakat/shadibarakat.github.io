@@ -19,7 +19,7 @@
 
 ### Crash Course in Python
 Completed a 50-hour course offering a fast-paced introduction to Python programming. The course covered fundamental programming concepts, data structures, Python libraries, and practical applications, equipping learners with the skills to tackle real-world programming challenges.  
-[Certification](https://coursera.org/share/4d738f32ab9b1c05ab73f39b57f79db6)
+[View Certification](https://coursera.org/share/4d738f32ab9b1c05ab73f39b57f79db6)
 
 ### Full Stack Web Development with Cloud
 Completed a comprehensive introduction to HTML, HTML5, Java, CSS, JavaScript, TypeScript, SQL, React, Node, and APIs. The course provided hands-on experience in fundamental programming concepts, data structures, and web development, enhancing my ability to address real-world programming challenges.
