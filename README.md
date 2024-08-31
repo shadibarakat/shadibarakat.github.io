@@ -16,7 +16,7 @@
 - Developed robust websites from the ground up, including a personal portfolio, a calculator, and a restaurant website.
 
 ### Alignerr
-**AI Tutor** | June 2024 – Present*  
+**AI Tutor** | *June 2024 – Present*  
 - Evaluate AI-generated content for accuracy, completeness, brevity, and grammatical correctness using established rubrics.
 - Review and provide feedback on the work of other writers to maintain high-quality standards.
 - Produce original content in response to prompts, directly contributing to AI model training and development.
