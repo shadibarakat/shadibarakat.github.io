@@ -9,16 +9,28 @@ github_username: shadibarakat
 linkedin_username: shadibarakat
 
 # SEO settings
-#google_analytics: UA-XXXXXXX-X # Replace with your Google Analytics tracking ID
-# plugins:
-#   - jekyll-seo-tag
+google_analytics: UA-XXXXXXX-X # Replace with your Google Analytics tracking ID
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap # Generates a sitemap.xml file for SEO
+  - jekyll-feed # Adds RSS feed support
+  - jekyll-social-icons # Easily add social icons
+  - jekyll-optional-front-matter # Allows optional front matter for pages
+  - jekyll-include-cache # Caches included files to speed up the build process
 
 # Theme settings
 theme: minima # Replace with your preferred Jekyll theme
+minima:
+  skin: dark # Set to 'dark' for a dark mode; use 'light' for light mode
+  header:
+    background: "#2C3E50" # Custom background color for the header
+    text: "#ECF0F1" # Custom text color for the header
+  social_links:
+    github: "https://github.com/shadibarakat"
+    linkedin: "https://www.linkedin.com/in/shadibarakat/"
 
 # Social Links
 social:
-  
   github: shadibarakat
   linkedin: shadibarakat
 
@@ -27,9 +39,11 @@ portfolio:
   - title: "GameGo Checkout System"
     description: "An intricate checkout system for a fictional store with multiple features."
     url: "/projects/gamego"
+    image: "/assets/images/gamego-thumbnail.png" # Add a thumbnail image for the project
   - title: "Blackjack Game"
     description: "A simple blackjack game with a UI in progress."
     url: "/projects/blackjack"
+    image: "/assets/images/blackjack-thumbnail.png" # Add a thumbnail image for the project
 
 # Build settings
 markdown: kramdown
@@ -44,3 +58,21 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+# New Settings for Aesthetics and Performance
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true # Enable comments for posts
+      image: "/assets/images/default-thumbnail.png" # Default thumbnail image for posts
+
+# Additional configuration options
+paginate: 5 # Number of posts per page
+paginate_path: "/page:num/"
+permalink: "/:title/" # Set clean URLs
+
+# Lazy loading for images
+lazyload: true
