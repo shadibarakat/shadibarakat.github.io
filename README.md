@@ -98,6 +98,8 @@ A JavaFX application that visualizes popular sorting algorithms such as Bubble S
 - **Visual Feedback**: Highlight comparisons and sorted elements using color-coded bars.
 - **Statistics Display**: Track the number of comparisons and swaps in real-time.
 
+[View on GitHub](https://github.com/shadibarakat/Sorting-Visualizer)
+
 ---
 
 ## **Technical Skills**
