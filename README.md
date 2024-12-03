@@ -84,6 +84,20 @@ Developed a trivia app using HTML, CSS, and JavaScript, challenging users with m
 - Featured an interactive interface, a scoring system, and a timer to enhance the challenge.  
 [View on GitHub](https://github.com/shadibarakat/trivia-api-project)
 
+
+---
+
+### Sorting Visualizer
+
+A JavaFX application that visualizes popular sorting algorithms such as Bubble Sort, Selection Sort, and Insertion Sort. This project allows users to interact with the sorting process, making it an excellent educational tool for understanding algorithm behavior.
+
+#### Key Features:
+- **Dynamic Array Size**: Adjust the size of the array (10 to 100 elements).
+- **Speed Control**: Customize the sorting speed (50ms to 500ms per step).
+- **Interactive Controls**: Generate random arrays and choose sorting algorithms with ease.
+- **Visual Feedback**: Highlight comparisons and sorted elements using color-coded bars.
+- **Statistics Display**: Track the number of comparisons and swaps in real-time.
+
 ---
 
 ## **Technical Skills**
