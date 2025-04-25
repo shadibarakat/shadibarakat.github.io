@@ -1,4 +1,3 @@
-# **Shadi Barakat Portfolio**
 **B.S. in Computer Science**  
 *College of Staten Island* | Expected Graduation: 2026  
 
